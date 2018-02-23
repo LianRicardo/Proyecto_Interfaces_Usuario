@@ -7,3 +7,4 @@ C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Apli
 C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.csproj.GenerateResource.Cache
 C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.exe
 C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.pdb
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.Form2.resources
