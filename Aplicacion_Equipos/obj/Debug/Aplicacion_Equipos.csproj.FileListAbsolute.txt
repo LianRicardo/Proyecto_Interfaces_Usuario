@@ -1,0 +1,9 @@
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\bin\Debug\Aplicacion_Equipos.exe.config
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\bin\Debug\Aplicacion_Equipos.exe
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\bin\Debug\Aplicacion_Equipos.pdb
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.csprojResolveAssemblyReference.cache
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.Form1.resources
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.Properties.Resources.resources
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.csproj.GenerateResource.Cache
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.exe
+C:\Users\Lian9\git\Proyecto_Interfaces_Usuario\Aplicacion_Equipos\obj\Debug\Aplicacion_Equipos.pdb
